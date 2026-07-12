@@ -1,0 +1,8 @@
+Employee Salary Report
+------------------------
+Ravi IT Basic:50000 Bonus:5000 Total:55000
+Priya HR Basic:45000 Bonus:4500 Total:49500
+Arun Finance Basic:40000 Bonus:4000 Total:44000
+Divya IT Basic:55000 Bonus:5500 Total:60500
+Sanjay HR Basic:42000 Bonus:4200 Total:46200
+------------------------
